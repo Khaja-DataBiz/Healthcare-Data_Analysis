@@ -39,3 +39,16 @@ This healthcare data analysis project provides valuable insights into the health
 | Dashboard      | Interactive visuals summarizing metrics |
 | Insights       | Healthcare operations and outcomes      |
 
+
+# Power BI Dashboard Project 📊
+
+| **Category**      | **Details**                                           |
+|-------------------|-------------------------------------------------------|
+| **Project Name**  | Healthcare--Power BI Dashboard Project                            |
+| **Description**   | An interactive Power BI dashboard designed to visualize key performance metrics and trends. |
+| **Key Features**  | Dynamic visualizations, Drill-through capabilities, Slicers and filters, Data-driven insights. |
+| **Technology Used** | Power BI, DAX, Markdown for documentation.          |
+| **File Format**   | `.pbix`                                               |
+| **Repository Link** | [Power BI Dashboard GitHub Repo](#)                 |
+| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
+
