@@ -15,17 +15,17 @@
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 The **Healthcare Data Analysis** project leverages Power BI to conduct an in-depth analysis of healthcare data, providing valuable insights into patient demographics, hospital performance, and treatment outcomes. This project aims to assist healthcare providers and administrators in making data-driven decisions that enhance patient care, improve operational efficiency, and optimize resource allocation.
 
-## 🎯 Objectives
+## Objectives
 
 - **Analyze healthcare operations and patient outcomes.**
 - **Visualize key metrics** such as patient admissions, discharge rates, and average treatment times.
 - **Identify trends and patterns** in patient demographics, hospital performance, and healthcare services.
 
-## 🛠️ Methodology
+## Methodology
 
 1. **Data Processing**  
    The dataset contains records from multiple hospitals, including patient demographics, treatment outcomes, and operational statistics. Data was cleaned and pre-processed to ensure accuracy and consistency before analysis.
@@ -38,19 +38,19 @@ The **Healthcare Data Analysis** project leverages Power BI to conduct an in-dep
 
 > 💡 **Pro Tip:** Use slicers and drill-through filters in Power BI for advanced data exploration!
 
-## 📊 Outcome
+## Outcome
 
 - The analysis highlighted critical operational insights, such as hospital resource utilization and patient flow.
 - The interactive dashboard offers decision-makers actionable insights into improving patient outcomes and hospital performance.
 - Trends in hospital efficiency, average treatment duration, and recovery rates were visualized, aiding better decision-making.
 
-## 💼 Business Impact
+## Business Impact
 
 - **Improved Resource Management:** Understanding which departments need more attention and optimizing resource allocation.
 - **Enhanced Patient Care Quality:** Tracking real-time performance metrics to support high-quality patient care.
 - **Operational Efficiency:** Identifying bottlenecks and areas of improvement within the healthcare system to streamline processes.
 
-## 🚀 Conclusion
+## Conclusion
 
 The Healthcare Data Analysis project demonstrates how Power BI can be effectively used to transform healthcare data into meaningful insights. By analyzing patient demographics, treatment outcomes, and hospital performance, the dashboard provides healthcare professionals and administrators with a powerful tool for enhancing decision-making. The ability to visualize KPIs such as admission rates, discharge rates, and treatment times allows for better management of hospital resources and improved patient care. This project ultimately contributes to more efficient healthcare operations and better patient outcomes.
 
@@ -64,7 +64,3 @@ The Healthcare Data Analysis project demonstrates how Power BI can be effectivel
 
 ---
 
-### 🗂️ Additional Resources
-
-- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-- [Healthcare Data Analytics in Power BI (Video)](https://www.youtube.com/watch?v=example)
