@@ -1,4 +1,4 @@
-# 🚀 Healthcare Data Analysis Using Power BI
+# Healthcare Data Analysis Using Power BI
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=power-bi) ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-green?style=for-the-badge&logo=heartbeat) ![Visualization](https://img.shields.io/badge/Type-Data%20Visualization-blue?style=for-the-badge&logo=data)
 
