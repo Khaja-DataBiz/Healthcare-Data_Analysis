@@ -33,3 +33,9 @@ Here are some screenshots from the Power BI report:
 
 ## Conclusion
 This healthcare data analysis project provides valuable insights into the healthcare industry, allowing for better decision-making through the use of powerful data visualization techniques in Power BI.
+
+| Feature        | Description                             |
+| -------------- | --------------------------------------- |
+| Dashboard      | Interactive visuals summarizing metrics |
+| Insights       | Healthcare operations and outcomes      |
+
