@@ -4,6 +4,18 @@
 ## Introduction
 This project focuses on analyzing healthcare data using advanced Power BI features to uncover trends, insights, and actionable information.
 
+# Power BI Dashboard Project 📊
+
+| **Category**      | **Details**                                           |
+|-------------------|-------------------------------------------------------|
+| **Project Name**  | Healthcare--Power BI Dashboard Project                            |
+| **Description**   | An interactive Power BI dashboard designed to visualize key performance metrics and trends. |
+| **Key Features**  | Dynamic visualizations, Drill-through capabilities, Slicers and filters, Data-driven insights. |
+| **Technology Used** | Power BI, DAX, Markdown for documentation.          |
+| **File Format**   | `.pbix`                                               |
+| **Repository Link** | [Power BI Dashboard GitHub Repo](#)                 |
+| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
+
 ## Project Overview
 The dataset used for this project comes from healthcare records, covering various key metrics such as patient demographics, hospital performance, and treatment outcomes. The Power BI report includes visualizations and analysis that help healthcare professionals make informed decisions.
 
@@ -40,15 +52,5 @@ This healthcare data analysis project provides valuable insights into the health
 | Insights       | Healthcare operations and outcomes      |
 
 
-# Power BI Dashboard Project 📊
 
-| **Category**      | **Details**                                           |
-|-------------------|-------------------------------------------------------|
-| **Project Name**  | Healthcare--Power BI Dashboard Project                            |
-| **Description**   | An interactive Power BI dashboard designed to visualize key performance metrics and trends. |
-| **Key Features**  | Dynamic visualizations, Drill-through capabilities, Slicers and filters, Data-driven insights. |
-| **Technology Used** | Power BI, DAX, Markdown for documentation.          |
-| **File Format**   | `.pbix`                                               |
-| **Repository Link** | [Power BI Dashboard GitHub Repo](#)                 |
-| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
 
